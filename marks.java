@@ -34,7 +34,7 @@ public class GradeCalculator {
         } else if (averagePercentage >= 60) {
             grade = "D";
         } else {
-            grade = "F";
+            grade = "E";
         }
 
         // Display the results
