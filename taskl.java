@@ -4,8 +4,6 @@ public class Numberguessing {
     public static void main(String[] args) {
         System.out.println("Let's play a game. I'll pick a number between");
         System.out.println("1 and 100, and you try to guess it.");
-        
-        /
         Scanner sc1 = new Scanner(System.in); 
         
         boolean playAgain;   
